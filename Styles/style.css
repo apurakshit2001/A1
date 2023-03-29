@@ -1,0 +1,26 @@
+table,
+td,
+th {
+    border: darkblue 1px solid
+}
+
+.honuman {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.nil {
+    background-color: blue;
+    height: 2px;
+
+}
+
+#red{
+    background-color: rgb(255, 0, 0);
+    height: 2px;
+}
+
+#second {height: 570px ; 
+width: 510px;
+}
